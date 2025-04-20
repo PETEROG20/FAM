@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+.Title-Centered {
+  display: flex;
+  margin-top: 2rem;
+  justify-content: center;
+}
+.main-container {
+  display: flex;
+}
+.Navbar {
+  height: 100vh;
+  width: 20%;
+  margin-right: 2rem;
+  background-color: #fceaff;
+}
+.raleway-uniquifier {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.title-centered {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.Avatar img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  border: 2px solid #6430ba;
+}
+.Navbar-Links-werapper {
+  margin-top: 7rem;
+  margin-left: 2rem;
+}
+.Navbar-Link-list {
+  list-style: none;
+}
+.Navbar-Link-list li div {
+  display: flex;
+}
+.Navbar-Link-list li div img {
+  width: 25px;
+  height: 25px;
+}
+.Navbar-Link-list li div div{
+  margin-left: 1rem;
+  font-size: 0.9rem;
+  font-weight: 1000;
+  margin-top: 0.2rem;
+}

@@ -5,6 +5,9 @@ function NavbarLinks(){
         <div>
             <ul className="Navbar-Link-list">
                 <Navbaritem/>
+                <Navbaritem/>
+                <Navbaritem/>
+                <Navbaritem/>
             </ul>
         </div>
     )
